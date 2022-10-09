@@ -1,2 +1,2 @@
-# Python_astrofisica
+# Python_Astrofisica
 Repositorio de proyectos con Python en Astrofísica
